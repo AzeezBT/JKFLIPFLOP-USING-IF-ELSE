@@ -102,4 +102,4 @@ endmodule
 
 **RESULTS**
 
-Thus,the code executed successfully.
+Thus,the code executed successfully for JK flipflop using verilog and validating their functionality using their functional tables.
